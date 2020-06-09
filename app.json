@@ -1,0 +1,17 @@
+{
+  "name": "FlipperWithUnimodules",
+  "displayName": "FlipperWithUnimodules",
+  "expo": {
+    "name": "FlipperWithUnimodules",
+    "slug": "FlipperWithUnimodules",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
